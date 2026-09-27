@@ -1,0 +1,6 @@
+{
+  "name": "SilentResQ — Hybrid VTOL Rescue Drone 3D Viewer",
+  "description": "Interactive 3D engineering viewer and component explorer for the SilentResQ Hybrid VTOL Fixed-Wing Rescue Drone platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

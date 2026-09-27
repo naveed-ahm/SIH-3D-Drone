@@ -1,0 +1,6 @@
+<svg viewBox="0 0 500 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="500" height="280" fill="#020617"/>
+    <polygon points="60,110 400,90 440,150 70,170" fill="#f8fafc" stroke="#94a3b8" stroke-width="2" />
+    <polygon points="400,90 440,90 440,150 400,140" fill="#ea580c" />
+    <text x="250" y="225" fill="#38bdf8" font-size="10" font-family="monospace" font-weight="bold" text-anchor="middle">STARBOARD COMPOSITE FIXED WING</text>
+  </svg>

@@ -1,0 +1,23 @@
+<svg viewBox="0 0 500 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="500" height="280" fill="#020617"/>
+    <defs>
+      <linearGradient id="vm-case" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#334155" />
+        <stop offset="40%" stop-color="#1e293b" />
+        <stop offset="100%" stop-color="#090d16" />
+      </linearGradient>
+      <linearGradient id="vm-copper" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#ea580c" />
+        <stop offset="50%" stop-color="#f59e0b" />
+        <stop offset="100%" stop-color="#b45309" />
+      </linearGradient>
+    </defs>
+    <rect x="180" y="200" width="140" height="25" rx="6" fill="#1e293b" stroke="#475569" stroke-width="2" />
+    <circle cx="205" cy="212" r="5" fill="#0f172a" stroke="#94a3b8" stroke-width="1" />
+    <circle cx="295" cy="212" r="5" fill="#0f172a" stroke="#94a3b8" stroke-width="1" />
+    <rect x="195" y="155" width="110" height="45" rx="4" fill="#0f172a" stroke="#334155" stroke-width="1.5" />
+    <rect x="185" y="80" width="130" height="75" rx="10" fill="url(#vm-case)" stroke="#64748b" stroke-width="2" />
+    <rect x="242" y="30" width="16" height="50" rx="3" fill="#cbd5e1" stroke="#94a3b8" stroke-width="1" />
+    <text x="250" y="130" fill="#f8fafc" font-size="11" font-family="monospace" font-weight="bold" text-anchor="middle">5010 360KV VTOL LIFT MOTOR</text>
+    <text x="250" y="245" fill="#38bdf8" font-size="10" font-family="monospace" font-weight="bold" text-anchor="middle">IP55 WEATHER SEALED | 3,850g MAX THRUST</text>
+  </svg>

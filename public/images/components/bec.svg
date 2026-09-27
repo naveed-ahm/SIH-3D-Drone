@@ -1,0 +1,6 @@
+<svg viewBox="0 0 500 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="500" height="280" fill="#020617"/>
+    <rect x="160" y="75" width="180" height="110" rx="10" fill="#0f172a" stroke="#334155" stroke-width="2" />
+    <circle cx="215" cy="130" r="22" fill="#b45309" stroke="#ea580c" stroke-width="2" />
+    <text x="250" y="235" fill="#38bdf8" font-size="10" font-family="monospace" font-weight="bold" text-anchor="middle">10A DUAL VOLTAGE REGULATOR (BEC)</text>
+  </svg>

@@ -1,0 +1,8 @@
+<svg viewBox="0 0 500 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="500" height="280" fill="#020617"/>
+    <rect x="120" y="70" width="260" height="135" rx="14" fill="#0f172a" stroke="#334155" stroke-width="2" />
+    <rect x="120" y="115" width="260" height="35" fill="#ea580c" opacity="0.9" />
+    <text x="250" y="137" fill="#ffffff" font-size="13" font-family="monospace" font-weight="bold" text-anchor="middle">6S 22,000mAh | 488.4Wh</text>
+    <rect x="435" y="112" width="30" height="42" rx="6" fill="#eab308" stroke="#ca8a04" stroke-width="2" />
+    <text x="250" y="180" fill="#94a3b8" font-size="9" font-family="monospace" text-anchor="middle">SEMI-SOLID STATE LITHIUM-ION (120 MIN ENDURANCE)</text>
+  </svg>

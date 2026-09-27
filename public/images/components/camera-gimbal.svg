@@ -1,0 +1,8 @@
+<svg viewBox="0 0 500 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="500" height="280" fill="#020617"/>
+    <rect x="180" y="95" width="140" height="120" rx="20" fill="#0f172a" stroke="#64748b" stroke-width="2" />
+    <circle cx="225" cy="145" r="28" fill="#0284c7" stroke="#94a3b8" stroke-width="3" />
+    <circle cx="280" cy="140" r="18" fill="#d97706" stroke="#ca8a04" stroke-width="2.5" />
+    <rect x="265" y="170" width="30" height="14" rx="4" fill="#fef08a" stroke="#ca8a04" stroke-width="1" />
+    <text x="250" y="240" fill="#38bdf8" font-size="10" font-family="monospace" font-weight="bold" text-anchor="middle">EO/IR DUAL THERMAL GIMBAL</text>
+  </svg>

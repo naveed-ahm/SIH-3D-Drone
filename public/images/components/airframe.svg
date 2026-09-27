@@ -1,0 +1,39 @@
+<svg viewBox="0 0 500 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="500" height="280" fill="#020617"/>
+    <defs>
+      <linearGradient id="af-body" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#f8fafc" />
+        <stop offset="50%" stop-color="#e2e8f0" />
+        <stop offset="100%" stop-color="#94a3b8" />
+      </linearGradient>
+      <linearGradient id="af-orange" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#ff781f" />
+        <stop offset="100%" stop-color="#ea580c" />
+      </linearGradient>
+      <linearGradient id="af-carbon" x1="0%" y1="0%" x2="0%" y2="100%">
+        <stop offset="0%" stop-color="#334155" />
+        <stop offset="50%" stop-color="#0f172a" />
+        <stop offset="100%" stop-color="#020617" />
+      </linearGradient>
+      <radialGradient id="af-glow" cx="50%" cy="50%" r="50%">
+        <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.25" />
+        <stop offset="100%" stop-color="#38bdf8" stop-opacity="0" />
+      </radialGradient>
+    </defs>
+    <ellipse cx="250" cy="140" rx="220" ry="110" fill="url(#af-glow)" />
+    <line x1="40" y1="140" x2="460" y2="140" stroke="#0ea5e9" stroke-width="0.75" stroke-dasharray="3 3" opacity="0.4" />
+    <line x1="250" y1="20" x2="250" y2="260" stroke="#0ea5e9" stroke-width="0.75" stroke-dasharray="3 3" opacity="0.4" />
+    <polygon points="50,145 250,125 450,145 440,165 250,150 60,165" fill="url(#af-body)" stroke="#cbd5e1" stroke-width="1.5" />
+    <polygon points="50,145 90,141 85,163 60,165" fill="url(#af-orange)" />
+    <polygon points="450,145 410,141 415,163 440,165" fill="url(#af-orange)" />
+    <rect x="135" y="75" width="12" height="150" rx="5" fill="url(#af-carbon)" stroke="#475569" stroke-width="1" />
+    <rect x="353" y="75" width="12" height="150" rx="5" fill="url(#af-carbon)" stroke="#475569" stroke-width="1" />
+    <circle cx="141" cy="78" r="10" fill="#0284c7" stroke="#38bdf8" stroke-width="1.5" />
+    <circle cx="141" cy="222" r="10" fill="#0284c7" stroke="#38bdf8" stroke-width="1.5" />
+    <circle cx="359" cy="78" r="10" fill="#0284c7" stroke="#38bdf8" stroke-width="1.5" />
+    <circle cx="359" cy="222" r="10" fill="#0284c7" stroke="#38bdf8" stroke-width="1.5" />
+    <polygon points="250,210 205,255 215,258 250,225 285,258 295,255" fill="url(#af-orange)" stroke="#cbd5e1" stroke-width="1" />
+    <path d="M 250 45 C 265 65 272 105 270 170 C 268 200 258 230 250 240 C 242 230 232 200 230 170 C 228 105 235 65 250 45 Z" fill="url(#af-body)" stroke="#e2e8f0" stroke-width="2" />
+    <path d="M 250 70 C 258 85 260 115 258 135 C 250 138 242 135 242 135 C 240 115 242 85 250 70 Z" fill="#0f172a" stroke="#38bdf8" stroke-width="1" />
+    <text x="250" y="272" text-anchor="middle" fill="#94a3b8" font-size="9" font-family="monospace">HYBRID VTOL AIRFRAME | SPAN: 3,200mm | MTOW: 14.5kg</text>
+  </svg>

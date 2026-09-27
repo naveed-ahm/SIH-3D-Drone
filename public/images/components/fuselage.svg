@@ -1,0 +1,5 @@
+<svg viewBox="0 0 500 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="500" height="280" fill="#020617"/>
+    <path d="M 60 140 C 90 100 200 95 380 115 C 430 120 460 135 460 140 C 460 145 430 160 380 165 C 200 185 90 180 60 140 Z" fill="#cbd5e1" stroke="#94a3b8" stroke-width="2" />
+    <text x="250" y="225" fill="#38bdf8" font-size="10" font-family="monospace" font-weight="bold" text-anchor="middle">STREAMLINED COMPOSITE FUSELAGE</text>
+  </svg>
